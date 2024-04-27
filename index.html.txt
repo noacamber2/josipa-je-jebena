@@ -1,16 +1,16 @@
 
 <html>
     <h1>
-        Hey, I'm NetworkChuck
+        josipa je jebena
     </h1>
     <body>
-        <h2>About me</h2>
+        <h2>zašto je ona jebena</h2>
         <p>
-            I am a coffee addict who makes vidoes sometimes.
+            jer je bich* koja je stupid i užasno anojing
         </p>
-        <h2>What I'm working on</h2>
+        <h2> njezi ni prijatelji </h2>
         <p>
-            I'm obsessed with AI right now and I'm working on the CPTS from HTB.
+            stupid eva, give up lorena i jebena tia
         </p>
     </body>
 </html>
